@@ -17,6 +17,7 @@ The Jupyter Notebook file contrains following content:
 7. Models Evaluation and Conclusion
 
 demo:
+
 <img width="496" alt="image" src="https://github.com/Oliver-Zen/house-price-pred/assets/117375722/534f13c6-a220-4ec3-8c4c-587b86feb645">
 <img width="429" alt="image" src="https://github.com/Oliver-Zen/house-price-pred/assets/117375722/2cf229ca-80eb-4cac-a74c-8949387fabb7">
 <img width="440" alt="image" src="https://github.com/Oliver-Zen/house-price-pred/assets/117375722/ddf2b7bf-fa83-44c5-9d17-969a6215abfc">
